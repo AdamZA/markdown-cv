@@ -106,6 +106,8 @@ li {
 	padding-left: 1em;
 	text-indent: -1em;
 	margin-bottom: 0.5em;
+	font: normal normal 400;
+	font-size: 100%;
 	/*color: #777;*/
 }
 
