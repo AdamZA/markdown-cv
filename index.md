@@ -12,7 +12,7 @@ Software Developer
 
 ## Goals
 
-My growth at Oracle has given me opportunities to work on a variety of services: contributing to the API, front-end, dev-ops/infrastructural requirements, and debugging/resolving live services issues. That said, I've typically been working within established patterns and libraries without building much from scratch. Existing internal documentation and references are extensive. I'd like to deepen my understanding with an environment change, by applying fundamentals with unfamiliar technologies/frameworks while upskilling and delivering. I've also found enjoyment in dev-ops and infrastructure responsibilities - as it empowers me when assisting with live service issues and minimizing customer impact, which I find rewarding. I'd like the opportunity to further grow in this space, if possible.
+My growth at Oracle has given me opportunities to work on a variety of services: contributing to the API, front-end, dev-ops/infrastructural requirements, and debugging/resolving live services issues. That said, I've typically been working within established patterns and libraries without building much from scratch. Existing internal documentation and references are extensive. I'd like to deepen my understanding with an environment change, by applying fundamentals with unfamiliar technologies/frameworks while upskilling and delivering. I've also found enjoyment in dev-ops and infrastructure responsibilities - as it empowers me when assisting with live service issues and minimizing customer impact, which I find rewarding. I'd like the opportunity to further grow in this space.
 
 ## Work Experience
 
@@ -60,14 +60,12 @@ I worked at Sea Monster for 5 months after graduating, which was an animation st
 `2015`
 __BSc. Honours Computer Science, University of Cape Town__
 
-Passed with distinction. Modules taken comprise Advanced Topics in Internet Security,
-Evolutionary Computation, HCI, Mobile Games, Networks for Developing Regions, UX in
-Games, and Visualization.
+- Passed with distinction. Modules taken comprise Advanced Topics in Internet Security, Evolutionary Computation, HCI, Mobile Games, Networks for Developing Regions, UX in Games, and Visualization.
 
 `2012-2014`
 __BSc. Computer Science and Computer Games Development, University of Cape Town__
 
-Relevant subjects taken include Computer Science, Information Systems, Games Development, C++ and Machine Learning.
+- Relevant subjects taken include Computer Science, Information Systems, Games Development, C++ and Machine Learning.
 
 <!-- ### Footer
 Last updated: March 2024 -->
