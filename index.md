@@ -23,7 +23,7 @@ more back-end development again.
 `Jan 2020-Present`
 __IC2/IC3 Software Developer__, Oracle
 
-- I initially joined the Oracle Cloud team working on a migration service which aimed to
+I initially joined the Oracle Cloud team working on a migration service which aimed to
 help customers to move their infrastructure configuration onto newer equivalent product
 offerings. Following this project, I have also worked on an infrastructure visualization service,
 a service to integrate Oracle Cloud with external cloud providers, and more recently on
@@ -41,7 +41,7 @@ implementations and adjustments based on provided yaml spec changes.
 `July 2016-December 2019`
 __Intermediate Software Developer__, Full Stack
 
-- A start-up focused on delivering Web and Mobile projects to clients. C#/.Net Framework
+A start-up focused on delivering Web and Mobile projects to clients. C#/.Net Framework
 and Xamarin were the primary tools used in these projects. Dependency injection, unit
 testing, source control, and Agile development were used extensively. I began as a junior
 developer, receiving guidance until I was exposed to enough technologies in order to start
@@ -51,24 +51,23 @@ owner and architect in order to construct backlogs.
 `Jan - May 2016`
 __Software and Game Developer__, Sea Monster
 
-- Creating Augmented Reality apps for clients, on both Android and iOS, using Unity3D with
+Creating Augmented Reality apps for clients, on both Android and iOS, using Unity3D with
 C#. I worked with both artists and devs in order to deliver on a variety of smaller projects.
 
 ## Education
 
 `2015`
 __BSc. Honours Computer Science, University of Cape Town__
-- Passed with distinction. Modules taken comprise Advanced Topics in Internet Security,
+Passed with distinction. Modules taken comprise Advanced Topics in Internet Security,
 Evolutionary Computation, HCI, Mobile Games, Networks for Developing Regions, UX in
 Games, and Visualization.
 
 `2012-2014`
 __BSc. Computer Science and Computer Games Development, University of Cape Town__
-- Relevant subjects taken include Computer Science, Information Systems, Games Develop-
+Relevant subjects taken include Computer Science, Information Systems, Games Develop-
 ment, C++ and Machine Learning.
 
 <!-- ### Footer
-
 Last updated: March 2024 -->
 
 
