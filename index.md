@@ -14,7 +14,7 @@ Software Developer
 
 My growth at Oracle has given me opportunities to work on a variety of services: contributing to the API, front-end, dev-ops/infrastructural requirements, and debugging/resolving live services issues. That said, I've typically been working within established patterns and libraries without building much from scratch. Existing internal documentation and references are extensive. I'd like to deepen my understanding with an environment change, by applying fundamentals with unfamiliar technologies/frameworks while upskilling and delivering. I've also found enjoyment in dev-ops and infrastructure responsibilities - as it empowers me when assisting with live service issues and minimizing customer impact, which I find rewarding. I'd like the opportunity to further grow in this space.
 
-## Work Experience
+## Work
 
 `2020-Present`
 __IC3 Software Developer__, Oracle
