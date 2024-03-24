@@ -20,7 +20,7 @@ more back-end development again.
 
 ## Work Experience
 
-`Jan 2020-Present`
+`2020-Present`
 __IC2/IC3 Software Developer__, Oracle
 
 I initially joined the Oracle Cloud team working on a migration service which aimed to
@@ -38,32 +38,36 @@ such as Load Balancers, Workflow As A Service, Deployment Orchestrators, etc. In
 of back-end exposure, other than integration, my main contributions have been feature
 implementations and adjustments based on provided yaml spec changes.
 
-`July 2016-December 2019`
+`2016-2019`
 __Intermediate Software Developer__, Full Stack
 
-A start-up focused on delivering Web and Mobile projects to clients. C#/.Net Framework
-and Xamarin were the primary tools used in these projects. Dependency injection, unit
-testing, source control, and Agile development were used extensively. I began as a junior
-developer, receiving guidance until I was exposed to enough technologies in order to start
-guiding others. I then led smaller teams on new projects, while also working with the product
-owner and architect in order to construct backlogs.
+A start-up focused on delivering Web and Mobile solutions for clients. I worked here for 3 and a half years, skilling up from a junior to intermediate developer. Built foundational knowledge of RESTful APIs, back-end and front-end project structures, mobile projects, CI/CD, databases, and leveraging Cloud services along with Microservice architecture and queues.
+- Worked as a fullstack developer, getting exposure to large variety of technologies.
+- <b>Backend:</b> C# with .Net Framework, hosted on Azure Cloud, SQL
+  - SOLID principles, Dependency Injection, Source Control and Agile development used extensively
+- <b>Frontend:</b> Angular with TypeScript
+- <b>Mobile:</b> Xamarin
+- Worked with Product Owners in order to help convert customer requirements into actionable backlogs in Jira.
 
-`Jan - May 2016`
+`2016`
 __Software and Game Developer__, Sea Monster
 
-Creating Augmented Reality apps for clients, on both Android and iOS, using Unity3D with
-C#. I worked with both artists and devs in order to deliver on a variety of smaller projects.
+I worked at Sea Monster for 5 months after graduating, which was an animation studio which recently expanded to include a games development startup in order to expand client offerings.
+-  Created and maintained Augment Reality mobile applications for clients, for both Android and iOS
+-  <b>Engine:</b> Unity3D with C#
 
 ## Education
 
 `2015`
 __BSc. Honours Computer Science, University of Cape Town__
+
 Passed with distinction. Modules taken comprise Advanced Topics in Internet Security,
 Evolutionary Computation, HCI, Mobile Games, Networks for Developing Regions, UX in
 Games, and Visualization.
 
 `2012-2014`
 __BSc. Computer Science and Computer Games Development, University of Cape Town__
+
 Relevant subjects taken include Computer Science, Information Systems, Games Develop-
 ment, C++ and Machine Learning.
 
