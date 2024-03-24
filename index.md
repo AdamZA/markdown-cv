@@ -20,6 +20,7 @@ My growth at Oracle has given me opportunities to work on a variety of services:
 __IC3 Software Developer__, Oracle
 
 I joined Oracle Cloud at the start of 2020 as an IC2, looking to challenge myself and grow in the Cloud space. Within a few months, there was an unexpected permanent transition to full-time remote work-from-home. Despite this, I adapted and delivered, resulting in me being elevated to an IC3 role. I've contributed to a variety of services, but my primary ownership and delivery has been in dev-ops and infrastructure, and in assisting with on-call requirements (triaging live-service issues). 
+<br />
 - • Initially assisted with enhancing/maintaining the existing UI and backend of a Migration Service, which helped customers to move their existing infrastructure configurations onto newer equivalent product offerings.
 - • Service and maintenance thereof required knowledge with bash, ansible, Docker, Java, Python, TypeScript, React, Terraform and a variety of internal tools.
 - • On-call duties required me to leverage metrics, internal logs, SSHing and debugging on the host, and communicate with relevant parties while triaging service errors.
@@ -38,6 +39,7 @@ I currently continue to balance front-end deliverables with infrastructure/opera
 __Intermediate Software Developer__, Full Stack
 
 A start-up focused on delivering Web and Mobile solutions for clients. I worked here for 3 and a half years, skilling up from a junior to intermediate developer. Built foundational knowledge of RESTful APIs, back-end and front-end project structures, mobile projects, CI/CD, databases, and leveraging Cloud services along with Microservice architecture and queues.
+<br />
 - Worked as a fullstack developer, getting exposure to large variety of technologies.
 - • __Backend:__ C# with .Net Framework, hosted on Azure Cloud, SQL
   - SOLID principles, Dependency Injection, Source Control and Agile development used extensively
@@ -49,6 +51,7 @@ A start-up focused on delivering Web and Mobile solutions for clients. I worked 
 __Software and Game Developer__, Sea Monster
 
 I worked at Sea Monster for 5 months after graduating, which was an animation studio which recently expanded to include a games development startup in order to expand client offerings.
+<br />
 - • Created and maintained Augment Reality mobile applications for clients, for both Android and iOS
 - • __Engine:__ Unity3D with C#
 
