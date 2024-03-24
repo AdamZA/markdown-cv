@@ -60,12 +60,12 @@ I worked at Sea Monster for 5 months after graduating, which was an animation st
 `2015`
 __BSc. Honours Computer Science, University of Cape Town__
 
-- Passed with distinction. Modules taken comprise Advanced Topics in Internet Security, Evolutionary Computation, HCI, Mobile Games, Networks for Developing Regions, UX in Games, and Visualization.
+- • Passed with distinction. Modules taken comprise Advanced Topics in Internet Security, Evolutionary Computation, HCI, Mobile Games, Networks for Developing Regions, UX in Games, and Visualization.
 
 `2012-2014`
 __BSc. Computer Science and Computer Games Development, University of Cape Town__
 
-- Relevant subjects taken include Computer Science, Information Systems, Games Development, C++ and Machine Learning.
+- • Relevant subjects taken include Computer Science, Information Systems, Games Development, C++ and Machine Learning.
 
 <!-- ### Footer
 Last updated: March 2024 -->
