@@ -64,9 +64,9 @@ body {
 p {
 	position: relative;
 	left: 20%;
-	margin-bottom: 0.7em;
+	margin-bottom: 1em;
 	margin-right: 0;
-	width: 55%;
+	width: 70%;
 }
 
 code {
@@ -74,7 +74,7 @@ code {
 	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #0823b3;
 }
 
 p code {
@@ -86,8 +86,8 @@ p code {
 
 ul {
 	position: relative;
-	left: 25%;
-	width: 65%;
+	left: 23%;
+	width: 70%;
 	margin-bottom: 1.5em;
 	/*margin-top: -0.5em;*/
 }
@@ -101,8 +101,8 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.5em;
-	text-indent: -1.5em;
+	padding-left: 1em;
+	text-indent: -1em;
 	margin-bottom: 0.5em;
 	/*color: #777;*/
 }
@@ -136,7 +136,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #3610a1;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
@@ -156,7 +156,7 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #6301ab;
 	text-decoration:none
 }
 
@@ -167,8 +167,8 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
-	color: #ccc;
+	left: 20%;
+	color: #6301ab;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
