@@ -12,7 +12,7 @@ Software Developer
 
 ## Goals
 
-My growth at Oracle has given me opportunities to work on a variety of services: contributing to the API, front-end, dev-ops/infrastructural requirements, and debugging/resolving live services issues. That said, I've typically been working within established patterns and libraries, following internal documentation and references. I'd like to deepen my understanding with an environment change, by applying fundamentals with unfamiliar technologies/frameworks while upskilling and delivering. I've also found enjoyment in dev-ops and infrastructure responsibilities - as it empowers me when assisting with live service issues and minimizing customer impact, which I find rewarding. I'd like the opportunity to further grow in this space.
+My growth at Oracle has given me opportunities to work on a variety of services: contributing to the API, front-end, dev-ops/infrastructural requirements, and debugging/resolving live services issues. That said, I've typically been working within established patterns and libraries, following internal documentation and references. I'd like to deepen my understanding with an environment change, by applying fundamentals with unfamiliar technologies/frameworks while upskilling and delivering, and by building new tools/applications from scratch. I've also found enjoyment in dev-ops and infrastructure responsibilities - as it empowers me when assisting with live service issues and minimizing customer impact, which I find rewarding. I'd like the opportunity to further grow in this space.
 
 ## Work
 
