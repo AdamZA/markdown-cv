@@ -31,7 +31,7 @@ I joined Oracle Cloud at the start of 2020 as an IC2 (Intermediate Developer), l
 - Following GA, the team moved to a new service. This service aims to emulate and integrate with Cloud services but in a disconnected, on-prem package delivering the same UX. My team's focus was on the UX and front-end requirements for both the on-device and Cloud Console UI for this service.  This also required deployments to government and disconnected realms with stricter internal change requirements for release. 
 - Was exposed to React/TypeScript based internal frameworks, VPAT requirements and Figma wireframing, while owning and maintaining deployments/whitelists/releases in new regions.
 - The team recently moved to a similar product in the service family, using different internal frameworks (leveraging Knockout JS) while delivering similar responsibilities in terms of new region releases.
-- An internal service team released a template-based UI framework, and I worked closely with a small team in order to convert our existing UI offerings into this new template-based framework. This framework remained in a constant state of flux, as it was actively still being developed, requiring adaptability and flexibility in order to deliver.
+- An internal service team released a template-based UI framework, and I worked closely with a small team in order to convert our existing UI offerings into this new template-based framework. This framework remained in a constant state of flux, as it was actively still being developed, requiring adaptability and flexibility in order for us to deliver.
 
 I currently continue to balance front-end deliverables with infrastructure/operational tasks, while assisting in the maintenance and on-call requirements of older services.
 
