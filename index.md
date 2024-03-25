@@ -41,7 +41,7 @@ __Intermediate Software Developer__, Full Stack
 A start-up focused on delivering Web and Mobile solutions for clients. I worked here for 3 and a half years, skilling up from a junior to intermediate developer. Built foundational knowledge of RESTful APIs, back-end and front-end project structures, mobile projects, CI/CD, databases, and leveraging Cloud services along with Microservice architecture and queues.
 <br />
 - Worked as a fullstack developer, getting exposure to large variety of technologies.
-- SOLID principles, Dependency Injection, Source Control and Agile development used extensively
+- SOLID principles, Dependency Injection, Source Control and Agile development used extensively.
 - Backend: C# with .Net Framework, hosted on Azure Cloud, SQL
 - Frontend: Angular with TypeScript
 - Mobile: Xamarin
@@ -52,7 +52,7 @@ __Software and Game Developer__, Sea Monster
 
 I worked at Sea Monster for 5 months after graduating, which was an animation studio which recently expanded to include a games development startup in order to expand client offerings.
 <br />
-- Created and maintained Augmented Reality mobile applications for clients, for both Android and iOS
+- Created and maintained Augmented Reality mobile applications for clients, for both Android and iOS.
 - Engine: Unity3D with C#
 
 ## Education
